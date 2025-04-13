@@ -1,0 +1,4 @@
+﻿  Assembling proyecto.asm...
+proyecto.asm(416): warning A6004: procedure argument or local not referenced : hFile
+proyecto.asm(416): warning A6004: procedure argument or local not referenced : pBuffer
+  proyectoEnsamblador.vcxproj -> D:\ASM\proyectoEnsamblador\Debug\proyectoEnsamblador.exe
